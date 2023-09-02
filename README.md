@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="https://github.com/Genesis3800/Solidity-in-Foundry-mdbook/assets/56264430/6adfe7fb-9193-43b7-a282-9540acd363ec" style="border-radius: 20px">
 </p>
 
